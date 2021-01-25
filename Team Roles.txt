@@ -1,0 +1,3 @@
+Team Lead - Tyler Meador
+Back End - Jameson Squyres
+Front End - Michellea Neptune
